@@ -1,4 +1,17 @@
-# Alpha by HTML5 UP
+# My portfolio site
+
+## Sections
+
+As a portfolio site, this should be primarily for showcasing projects that I have or am working on, my background/experience, stuff I am interested in, and maybe some blog posts to highlight my motivations and interests. So this could be broken down into:
+
+* Home
+* Projects
+* Contact details
+* Blog
+
+## Web Template used
+
+ Alpha by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
