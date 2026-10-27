@@ -2030,6 +2030,12 @@
 		line-height: 1.5em;
 	}
 
+	header.major h2 + p {
+		font-size: 1em;
+		margin-top: 1.5em;
+		line-height: 1.5em;
+	}
+
 	header h3 + p {
 		font-size: 1.1em;
 		margin-top: -0.85em;
@@ -2054,11 +2060,11 @@
 		}
 
 		header.major p {
-			display: inline-block;
-			border-top: solid 2px #e5e5e5;
+			display: block;
+			border-top: none;
 			color: #777;
 			margin: 1.5em 0 0 0;
-			padding: 1.5em 0 0 0;
+			padding: 0;
 			font-style: normal;
 		}
 
@@ -2327,6 +2333,7 @@
 
 		.box.special {
 			text-align: center;
+		    border: none;
 		}
 
 		.box .image.featured {
